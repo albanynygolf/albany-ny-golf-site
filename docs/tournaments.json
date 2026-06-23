@@ -1,4 +1,16 @@
 {
-  "updated": "2026-06-17",
-  "tournaments": []
+  "updated": "2026-06-23",
+  "tournaments": [
+    {
+      "name": "Rattlers Outing",
+      "course": "Copake Country Club",
+      "date": "2026-06-26",
+      "time": "Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Rattlers (team/org)",
+      "registration_url": "",
+      "contact": ""
+    }
+  ]
 }

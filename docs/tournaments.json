@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-06-24",
   "tournaments": [
     {
       "name": "Rattlers Outing",
@@ -11,6 +11,17 @@
       "charity": "Rattlers (team/org)",
       "registration_url": "",
       "contact": ""
+    },
+    {
+      "name": "5th Annual For the Puck Golf Tournament",
+      "course": "Copake Country Club",
+      "date": "2026-06-26",
+      "time": "Registration 8:00 AM / Shotgun 9:00 AM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Berkshire Rattlers Youth Hockey",
+      "registration_url": "",
+      "contact": "berkshirerattlersforthepuck@gmail.com"
     }
   ]
 }

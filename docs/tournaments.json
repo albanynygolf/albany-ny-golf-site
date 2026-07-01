@@ -3,564 +3,410 @@
   "tournaments": [
     {
       "name": "Live Like Liv Foundation Outing",
-      "course": "",
+      "course": "Van Patten Golf Club",
       "date": "2026-07-11",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Live Like Liv Foundation",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 877-5400"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-07-11",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Live like Liv Foundation",
-      "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "Paws On The Green Golf Tournament",
+      "course": "Saratoga Lake Golf Club",
       "date": "2026-07-14",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Paws On The Green",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 581-6616"
     },
     {
       "name": "ChildVoice Golf Outing",
-      "course": "",
+      "course": "Van Patten Golf Club",
       "date": "2026-07-16",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "ChildVoice",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-07-16",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "ChildVoice",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 877-5400"
     },
     {
       "name": "Easton Republicans Committee Fundraiser",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-07-18",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Easton Republicans Committee",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-07-18",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
       "name": "Middle Falls Fire Department Fundraiser",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-07-19",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Middle Falls Fire Department",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-07-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "FOJA Golf Outing",
+      "course": "Van Patten Golf Club",
       "date": "2026-07-23",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "FOJA",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 877-5400"
     },
     {
       "name": "Van Curler Cup",
-      "course": "",
+      "course": "Schenectady Municipal Golf Course",
       "date": "2026-07-24",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 382-5155"
     },
     {
       "name": "Mia Foundation Golf Tournament",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-07-25",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Mia Foundation",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-07-25",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Mia Foundation",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
       "name": "Hook A Kid On Golf Charity Outing",
-      "course": "",
+      "course": "Schenectady Municipal Golf Course",
       "date": "2026-07-28",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Hook a Kid on Golf (USGA youth golf program)",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 382-5155"
     },
     {
       "name": "Bobby Baily Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-07-31",
-      "time": "",
+      "time": "Course opens at 3:30 PM",
       "format": "scramble",
       "cost": "",
       "charity": "Bobby Baily",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-07-31",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Bobby Baily Memorial",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Fore the Cure",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-08-01",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Fore the Cure",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-08-01",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Fore the Cure",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
       "name": "CLCS Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-07",
-      "time": "",
+      "time": "Course opens at 3:30 PM",
       "format": "scramble",
       "cost": "",
       "charity": "CLCS",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Turn Back the Clock",
-      "course": "",
+      "course": "Schenectady Municipal Golf Course",
       "date": "2026-08-08",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 382-5155"
     },
     {
       "name": "Fort Edward Basketball Fundraiser",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-08-08",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Fort Edward Basketball",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-08-08",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Fort Edward Basketball",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
       "name": "Saratoga 9 & Wine 2026",
-      "course": "",
+      "course": "Saratoga Lake Golf Club",
       "date": "2026-08-11",
-      "time": "",
+      "time": "2:00 PM shotgun",
       "format": "scramble",
       "cost": "",
       "charity": "The Wesley Community (senior care)",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 581-6616"
     },
     {
       "name": "Ladies Intercounty Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-13",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Ladies Intercounty",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Herringtons Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-14",
-      "time": "",
+      "time": "Course opens at 3:30 PM",
       "format": "scramble",
       "cost": "",
       "charity": "Herringtons",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Kyle McLenithan Memorial",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-08-15",
-      "time": "",
+      "time": "CLOSED until 1:00pm",
       "format": "scramble",
       "cost": "",
       "charity": "Kyle McLenithan Memorial",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-08-15",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "Hudson HS Outing",
+      "course": "Copake Country Club",
       "date": "2026-08-17",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Hudson HS",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Columbia County Sheriffs Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-19",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Columbia County Sheriffs",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-08-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Columbia County Sheriffs",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "COARC Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-20",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "COARC",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Chad Scholarship Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-21",
-      "time": "",
+      "time": "10:00 AM",
       "format": "scramble",
       "cost": "",
       "charity": "Chad Scholarship",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "Wounded Warriors Project Outing",
+      "course": "Copake Country Club",
       "date": "2026-08-22",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Wounded Warriors Project",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "NEWGA Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-24",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "NEWGA",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "HFD Connor Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-28",
-      "time": "",
+      "time": "Course opens at 3:30 PM",
       "format": "scramble",
       "cost": "",
       "charity": "HFD Connor",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "JODI D Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-08-31",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "JODI D",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "75th Anniversary Pro-Am",
-      "course": "",
+      "course": "Schenectady Municipal Golf Course",
       "date": "2026-09-07",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 382-5155"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-09-07",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Schenectady Municipal Golf Course 75th Anniversary",
-      "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "Saratoga 9 & Wine 2026",
+      "course": "Saratoga Lake Golf Club",
       "date": "2026-09-09",
-      "time": "",
+      "time": "2:00 PM shotgun",
       "format": "scramble",
       "cost": "",
       "charity": "The Wesley Community",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 581-6616"
     },
     {
       "name": "8th Annual Bob Best Memorial Golf Tournament",
-      "course": "",
+      "course": "Saratoga Lake Golf Club",
       "date": "2026-09-11",
-      "time": "",
+      "time": "12:00 PM shotgun",
       "format": "scramble",
       "cost": "",
       "charity": "Saratoga Regional YMCA",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 581-6616"
     },
     {
       "name": "Idle Hour Invitational",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-09-13",
-      "time": "",
+      "time": "CLOSED until 2:00pm",
       "format": "scramble",
       "cost": "",
       "charity": "Idle Hour",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "Frank Z VFW Outing",
+      "course": "Copake Country Club",
       "date": "2026-09-14",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Frank Z VFW",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "Goldleaf Outing",
+      "course": "Copake Country Club",
       "date": "2026-09-18",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Goldleaf",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
-      "name": "Charity Scramble",
-      "course": "",
+      "name": "Barrett Tournament",
+      "course": "Copake Country Club",
       "date": "2026-09-25",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Barrett",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Norshaft Lions Club Golf Tournament",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-09-27",
-      "time": "",
+      "time": "CLOSED until 2:00pm",
       "format": "scramble",
       "cost": "",
       "charity": "Norshaft Lions Club",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-09-27",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Norshaft Lions Club",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
       "name": "Ron Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-10-03",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Ron",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     },
     {
       "name": "Windy Hills Fall Tournament",
-      "course": "",
+      "course": "Windy Hills Golf Course",
       "date": "2026-10-03",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "",
       "registration_url": "",
-      "contact": ""
+      "contact": "(518) 695-4902"
     },
     {
       "name": "Dollars for Scholars Outing",
-      "course": "",
+      "course": "Copake Country Club",
       "date": "2026-10-04",
       "time": "",
       "format": "scramble",
       "cost": "",
       "charity": "Dollars for Scholars",
       "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "2026-10-04",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Dollars for Scholars",
-      "registration_url": "",
-      "contact": ""
-    },
-    {
-      "name": "Charity Scramble",
-      "course": "",
-      "date": "",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "",
-      "registration_url": "",
-      "contact": ""
+      "contact": "(518) 325-0019"
     }
   ]
 }

@@ -200,6 +200,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Mia Foundation Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-25",
+      "time": "Closed all day",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Mia Foundation",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Rattlers Outing",
       "course": "Copake Country Club",
       "date": "2026-07-26",
@@ -321,6 +332,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Fort Edward Basketball Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-08",
+      "time": "See course for event time",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Fort Edward Basketball",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Saratoga 9 & Wine 2026",
       "course": "Saratoga Lake Golf Club",
       "date": "2026-08-11",
@@ -382,6 +404,17 @@
       "time": "Course closed until 1:00 PM",
       "format": "scramble",
       "cost": "",
+      "charity": "Kyle McLenithan Memorial",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Kyle McLenithan Memorial Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-15",
+      "time": "Closed until 1:00 PM",
+      "format": "scramble",
+      "cost": "Not listed",
       "charity": "Kyle McLenithan Memorial",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
@@ -580,6 +613,17 @@
       "time": "Course closed until 2:00 PM",
       "format": "scramble",
       "cost": "",
+      "charity": "Norshaft Lions Club",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Norshaft Lions Club Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-27",
+      "time": "Closed until 2:00 PM",
+      "format": "scramble",
+      "cost": "Not listed",
       "charity": "Norshaft Lions Club",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"

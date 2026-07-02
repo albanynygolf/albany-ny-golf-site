@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "tournaments": [
     {
       "name": "Live Like Liv Foundation Outing",
@@ -24,6 +24,17 @@
       "contact": "(518) 581-6616"
     },
     {
+      "name": "American Lions Outing",
+      "course": "Copake Country Club",
+      "date": "2026-07-15",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "American Lions",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
+    },
+    {
       "name": "ChildVoice Golf Outing",
       "course": "Van Patten Golf Club",
       "date": "2026-07-16",
@@ -46,6 +57,17 @@
       "contact": "(518) 695-4902"
     },
     {
+      "name": "Easton Republicans Committee Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-18",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Easton Republicans Committee",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills clubhouse: 518-695-4902"
+    },
+    {
       "name": "Middle Falls Fire Department Fundraiser",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-19",
@@ -57,6 +79,28 @@
       "contact": "(518) 695-4902"
     },
     {
+      "name": "Middle Falls Fire Department Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-19",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Middle Falls Fire Department",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills clubhouse: 518-695-4902"
+    },
+    {
+      "name": "Bomber Booster Club Outing",
+      "course": "Copake Country Club",
+      "date": "2026-07-19",
+      "time": "Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Bomber Booster Club",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
+    },
+    {
       "name": "FOJA Golf Outing",
       "course": "Van Patten Golf Club",
       "date": "2026-07-23",
@@ -66,6 +110,17 @@
       "charity": "FOJA",
       "registration_url": "",
       "contact": "(518) 877-5400"
+    },
+    {
+      "name": "FOJA Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-07-23",
+      "time": "10:00 AM; closed tournament",
+      "format": "scramble",
+      "cost": "",
+      "charity": "FOJA",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
+      "contact": "Thunderhart Golf Course: 518-634-7816"
     },
     {
       "name": "Van Curler Cup",
@@ -90,6 +145,28 @@
       "contact": "(518) 695-4902"
     },
     {
+      "name": "Mia Foundation Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-25",
+      "time": "Closed all day",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Mia Foundation",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills clubhouse: 518-695-4902"
+    },
+    {
+      "name": "Rattlers Outing",
+      "course": "Copake Country Club",
+      "date": "2026-07-26",
+      "time": "Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Rattlers",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
+    },
+    {
       "name": "Hook A Kid On Golf Charity Outing",
       "course": "Schenectady Municipal Golf Course",
       "date": "2026-07-28",
@@ -110,6 +187,17 @@
       "charity": "Bobby Baily",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Iapoce Memorial",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-07-31",
+      "time": "9:00 AM; closed tournament",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Iapoce Memorial",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
+      "contact": "Thunderhart Golf Course: 518-634-7816"
     },
     {
       "name": "Fore the Cure",
@@ -156,6 +244,17 @@
       "contact": "(518) 695-4902"
     },
     {
+      "name": "Fort Edward Basketball Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-08",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fort Edward Basketball",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills clubhouse: 518-695-4902"
+    },
+    {
       "name": "Saratoga 9 & Wine 2026",
       "course": "Saratoga Lake Golf Club",
       "date": "2026-08-11",
@@ -198,6 +297,17 @@
       "charity": "Kyle McLenithan Memorial",
       "registration_url": "",
       "contact": "(518) 695-4902"
+    },
+    {
+      "name": "Kyle McLenithan Memorial Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-15",
+      "time": "Closed until 1:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Kyle McLenithan Memorial",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills clubhouse: 518-695-4902"
     },
     {
       "name": "Hudson HS Outing",
@@ -376,6 +486,17 @@
       "contact": "(518) 695-4902"
     },
     {
+      "name": "Norshaft Lions Club Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-27",
+      "time": "Closed until 2:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Norshaft Lions Club",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills clubhouse: 518-695-4902"
+    },
+    {
       "name": "Ron Outing",
       "course": "Copake Country Club",
       "date": "2026-10-03",
@@ -407,6 +528,17 @@
       "charity": "Dollars for Scholars",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Bomber Boosters Outing",
+      "course": "Copake Country Club",
+      "date": "2027-06-18",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Bomber Boosters",
+      "registration_url": "https://calendar.google.com/calendar/ical/copakeevents%40gmail.com/public/basic.ics",
+      "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
     }
   ]
 }

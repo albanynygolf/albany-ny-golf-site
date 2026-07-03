@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "tournaments": [
     {
       "name": "Live Like Liv Foundation Outing",
@@ -165,6 +165,17 @@
       "charity": "Middle Falls Fire Department",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
+    },
+    {
+      "name": "Middle Falls Fire Department Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-19",
+      "time": "Call clubhouse for tee times/availability",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Middle Falls Fire Department",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
     },
     {
       "name": "FOJA Golf Outing",
@@ -343,6 +354,17 @@
       "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
     },
     {
+      "name": "Fore the Cure Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-01",
+      "time": "Call clubhouse for tee times/availability",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Fore the Cure",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "CLCS Outing",
       "course": "Copake Country Club",
       "date": "2026-08-07",
@@ -429,6 +451,17 @@
       "charity": "Fort Edward Basketball",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
+    },
+    {
+      "name": "Fort Edward Basketball Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-08",
+      "time": "Call clubhouse for tee times/availability",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Fort Edward Basketball",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
     },
     {
       "name": "Saratoga 9 & Wine 2026",

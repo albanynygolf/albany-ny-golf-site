@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "tournaments": [
     {
       "name": "Live Like Liv Foundation Outing",
@@ -132,6 +132,17 @@
       "charity": "CLCS",
       "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
       "contact": "info@copakecountryclub.com; (518) 325-0019"
+    },
+    {
+      "name": "Easton Republican Committee Golf Fundraiser",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-18",
+      "time": "Time TBD",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Easton Republican Committee",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills Golf Course, 518-695-4902"
     },
     {
       "name": "Middle Falls Fire Department Fundraiser",

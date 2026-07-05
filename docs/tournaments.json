@@ -145,6 +145,17 @@
       "contact": "Windy Hills Golf Course, 518-695-4902"
     },
     {
+      "name": "Easton Republicans Committee Golf Fundraiser",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-18",
+      "time": "Time TBD",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Easton Republicans Committee",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Middle Falls Fire Department Fundraiser",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-19",
@@ -561,6 +572,17 @@
       "charity": "The Wesley Community",
       "registration_url": "https://saratogalakegolf.com/events/saratoga-9-wine/",
       "contact": "Saratoga Lake Golf Club, (518) 581-6616"
+    },
+    {
+      "name": "The Wesley Community's Saratoga 9 & Wine 2026",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-08-11",
+      "time": "Registration 1:00 PM; 2:00 PM shotgun start",
+      "format": "scramble",
+      "cost": "$175 per person or $700 per foursome",
+      "charity": "The Wesley Community",
+      "registration_url": "https://saratogalakegolf.com/saratoga-9-wine-2026/",
+      "contact": "518-581-6616"
     },
     {
       "name": "Ladies Intercounty Outing",

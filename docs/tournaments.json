@@ -266,6 +266,17 @@
       "contact": "518-634-7816"
     },
     {
+      "name": "FOJA Closed Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-07-23",
+      "time": "10:00 AM",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "FOJA",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
+      "contact": "518-634-7816"
+    },
+    {
       "name": "Van Curler Cup",
       "course": "Schenectady Municipal Golf Course",
       "date": "2026-07-24",
@@ -388,6 +399,17 @@
     },
     {
       "name": "Iapoce Memorial Golf Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-07-31",
+      "time": "9:00 AM",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Iapoce Memorial",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
+      "contact": "518-634-7816"
+    },
+    {
+      "name": "Iapoce Memorial Closed Tournament",
       "course": "Thunderhart Golf Course",
       "date": "2026-07-31",
       "time": "9:00 AM",

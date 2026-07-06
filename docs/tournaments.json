@@ -79,6 +79,28 @@
       "contact": "518-877-5400"
     },
     {
+      "name": "ChildVoice Charity Golf Outing",
+      "course": "Van Patten Golf Club",
+      "date": "2026-07-16",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "ChildVoice",
+      "registration_url": "https://www.vanpattengolf.com/outings",
+      "contact": "518-877-5400"
+    },
+    {
+      "name": "CLCS Summer Bash",
+      "course": "Copake Country Club",
+      "date": "2026-07-16",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "CLCS",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-0019"
+    },
+    {
       "name": "Easton Republicans Committee Fundraiser",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-18",
@@ -453,6 +475,17 @@
       "contact": "518-634-7816"
     },
     {
+      "name": "8th Annual Bob Best Memorial Golf Tournament",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-07-31",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Bob Best Memorial",
+      "registration_url": "https://saratogalakegolf.com/latest-news/",
+      "contact": "518-581-6616"
+    },
+    {
       "name": "Fore the Cure",
       "course": "Windy Hills Golf Course",
       "date": "2026-08-01",
@@ -506,6 +539,17 @@
       "charity": "Fore the Cure",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Bobby Baily Outing",
+      "course": "Copake Country Club",
+      "date": "2026-08-01",
+      "time": "Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Bobby Baily Memorial",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-0019"
     },
     {
       "name": "CLCS Outing",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "tournaments": [
     {
       "name": "Live Like Liv Foundation Outing",
@@ -11,6 +11,17 @@
       "charity": "Live Like Liv Foundation",
       "registration_url": "",
       "contact": "(518) 877-5400"
+    },
+    {
+      "name": "Live Like Liv Foundation Golf Outing",
+      "course": "Van Patten Golf Club",
+      "date": "2026-07-11",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Live Like Liv Foundation",
+      "registration_url": "https://www.vanpattengolf.com/outings",
+      "contact": "518-877-5400"
     },
     {
       "name": "Paws On The Green Golf Tournament",
@@ -981,6 +992,17 @@
       "contact": "(518) 695-4902"
     },
     {
+      "name": "Windy Hills Fall Tournament (Open to Public)",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-10-03",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Windy Hills Golf Course",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Dollars for Scholars Outing",
       "course": "Copake Country Club",
       "date": "2026-10-04",
@@ -990,6 +1012,17 @@
       "charity": "Dollars for Scholars",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Snowman Open",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-11-03",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Windy Hills Golf Course",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
     },
     {
       "name": "Bomber Boosters Outing",

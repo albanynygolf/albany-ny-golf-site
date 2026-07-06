@@ -651,6 +651,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Turn Back the Clock Golf Outing",
+      "course": "Schenectady Municipal Golf Course",
+      "date": "2026-08-08",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "",
+      "contact": "(518) 382-5155"
+    },
+    {
       "name": "Sheffield Fire Tournament",
       "course": "Copake Country Club",
       "date": "2026-08-09",
@@ -904,6 +915,17 @@
       "contact": "(518) 581-6616"
     },
     {
+      "name": "Cannan VFW Outing",
+      "course": "Copake Country Club",
+      "date": "2026-09-11",
+      "time": "11:00 AM, course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Cannan VFW",
+      "registration_url": "",
+      "contact": "(518) 325-0019"
+    },
+    {
       "name": "Idle Hour Invitational",
       "course": "Windy Hills Golf Course",
       "date": "2026-09-13",
@@ -944,6 +966,17 @@
       "format": "scramble",
       "cost": "",
       "charity": "Barrett",
+      "registration_url": "",
+      "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Barrett Outing",
+      "course": "Copake Country Club",
+      "date": "2026-09-25",
+      "time": "Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
       "registration_url": "",
       "contact": "(518) 325-0019"
     },

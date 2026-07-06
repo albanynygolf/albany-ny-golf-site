@@ -101,6 +101,17 @@
       "contact": "518-325-0019"
     },
     {
+      "name": "8th Annual Bob Best Memorial Golf Tournament",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-07-17",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "https://saratogalakegolf.com/latest-news/",
+      "contact": "518-581-6616"
+    },
+    {
       "name": "Easton Republicans Committee Fundraiser",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-18",
@@ -198,6 +209,17 @@
       "charity": "Easton Republicans Committee",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "CLCS Summer Bash Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-07-18",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-0019"
     },
     {
       "name": "Middle Falls Fire Department Fundraiser",
@@ -937,6 +959,17 @@
       "contact": "(518) 695-4902"
     },
     {
+      "name": "Idle Hour Invitational Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-13",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Frank Z VFW Outing",
       "course": "Copake Country Club",
       "date": "2026-09-14",
@@ -1047,6 +1080,17 @@
       "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
     },
     {
+      "name": "Impossible Pin Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-10-02",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Ron Outing",
       "course": "Copake Country Club",
       "date": "2026-10-03",
@@ -1098,6 +1142,17 @@
       "format": "scramble",
       "cost": "",
       "charity": "Windy Hills Golf Course",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Snowman Open Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-11-03",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
     },

@@ -156,6 +156,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Easton Republicans Committee Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-18",
+      "time": "See course for tee availability",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Easton Republicans Committee",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Middle Falls Fire Department Fundraiser",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-19",
@@ -226,6 +237,17 @@
       "course": "Windy Hills Golf Course",
       "date": "2026-07-19",
       "time": "Call clubhouse for tee times/availability",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Middle Falls Fire Department",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Middle Falls Fire Department Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-19",
+      "time": "See course for tee availability",
       "format": "scramble",
       "cost": "Not listed",
       "charity": "Middle Falls Fire Department",
@@ -457,6 +479,17 @@
       "course": "Windy Hills Golf Course",
       "date": "2026-08-01",
       "time": "Call clubhouse for tee times/availability",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Fore the Cure",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Fore the Cure Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-01",
+      "time": "See course for tee availability",
       "format": "scramble",
       "cost": "Not listed",
       "charity": "Fore the Cure",

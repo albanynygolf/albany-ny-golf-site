@@ -21,17 +21,12 @@
 <p><a href="mailto:albanynygolf@gmail.com">albanynygolf@gmail.com</a></p>
 <p class="updated" id="updated"></p></footer>
 <script src="app.js"></script>
-<!-- GoatCounter analytics — free, privacy-friendly visitor tracking -->
-<!-- Sign up at https://www.goatcounter.com and replace YOURCODE below -->
+<!-- Google Analytics 4 — free visitor analytics -->
+<!-- Matt: create a GA4 property at https://analytics.google.com and replace G-XXXXXXX with your Measurement ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
 <script>
-  // Self-hosted GoatCounter on our own subdomain (once set up)
-  // For now using GoatCounter's hosted CDN
-  window.goatcounter = {
-    path: function() { return location.pathname + location.search + location.hash }
-  };
-  // Load GoatCounter — replace YOURCODE with your GoatCounter code after signup
-  // The script will be: https://YOURCODE.goatcounter.com/count
-  // Until then this is a no-op placeholder
-</script>
-<script data-goatcounter="https://albanynygolf.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script></body></html>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXX');
+</script></body></html>

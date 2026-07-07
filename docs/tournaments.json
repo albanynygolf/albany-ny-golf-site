@@ -2,17 +2,6 @@
   "updated": "2026-07-07",
   "tournaments": [
     {
-      "name": "Live Like Liv Foundation Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-11",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Live Like Liv Foundation",
-      "registration_url": "",
-      "contact": "(518) 877-5400"
-    },
-    {
       "name": "Live Like Liv Foundation Golf Outing",
       "course": "Van Patten Golf Club",
       "date": "2026-07-11",
@@ -46,45 +35,12 @@
       "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
     },
     {
-      "name": "ChildVoice Golf Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-16",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "ChildVoice",
-      "registration_url": "",
-      "contact": "(518) 877-5400"
-    },
-    {
-      "name": "ChildVoice Charitable Golf Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-16",
-      "time": "Call course for outing time",
-      "format": "scramble",
-      "cost": "",
-      "charity": "ChildVoice",
-      "registration_url": "https://www.vanpattengolf.com/outings",
-      "contact": "518-877-5400"
-    },
-    {
       "name": "ChildVoice Charity Outing",
       "course": "Van Patten Golf Club",
       "date": "2026-07-16",
       "time": "Not listed",
       "format": "scramble",
       "cost": "Not listed",
-      "charity": "ChildVoice",
-      "registration_url": "https://www.vanpattengolf.com/outings",
-      "contact": "518-877-5400"
-    },
-    {
-      "name": "ChildVoice Charity Golf Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-16",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
       "charity": "ChildVoice",
       "registration_url": "https://www.vanpattengolf.com/outings",
       "contact": "518-877-5400"
@@ -112,56 +68,12 @@
       "contact": "518-581-6616"
     },
     {
-      "name": "Easton Republicans Committee Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "",
-      "contact": "(518) 695-4902"
-    },
-    {
-      "name": "Easton Republicans Committee Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills clubhouse: 518-695-4902"
-    },
-    {
-      "name": "Easton Republican Committee Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "Call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republican Committee",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "Easton Republicans Committee Tournament",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-18",
       "time": "Call clubhouse to confirm tee times",
       "format": "scramble",
       "cost": "Call clubhouse",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Easton Republicans Committee Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "Call clubhouse for tee time/outing details",
-      "format": "scramble",
-      "cost": "Call clubhouse for details",
       "charity": "Easton Republicans Committee",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
@@ -189,28 +101,6 @@
       "contact": "Windy Hills Golf Course, 518-695-4902"
     },
     {
-      "name": "Easton Republicans Committee Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "Time TBD",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Easton Republicans Committee Golf Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "See course for tee availability",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "CLCS Summer Bash Golf Outing",
       "course": "Copake Country Club",
       "date": "2026-07-18",
@@ -220,28 +110,6 @@
       "charity": "",
       "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
       "contact": "518-325-0019"
-    },
-    {
-      "name": "Middle Falls Fire Department Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "",
-      "contact": "(518) 695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills clubhouse: 518-695-4902"
     },
     {
       "name": "Bomber Booster Club Outing",
@@ -255,17 +123,6 @@
       "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
     },
     {
-      "name": "Middle Falls Fire Department Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "Call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "Middle Falls Fire Department Tournament",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-19",
@@ -274,50 +131,6 @@
       "cost": "Call clubhouse",
       "charity": "Middle Falls Fire Department",
       "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Fundraiser Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "TBD; call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "Call clubhouse for tee times/availability",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Golf Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "See course for tee availability",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Charity Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "",
       "contact": "518-695-4902"
     },
     {
@@ -332,29 +145,7 @@
       "contact": "(518) 877-5400"
     },
     {
-      "name": "FOJA Tournament",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-07-23",
-      "time": "10:00 AM; closed tournament",
-      "format": "scramble",
-      "cost": "",
-      "charity": "FOJA",
-      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "Thunderhart Golf Course: 518-634-7816"
-    },
-    {
       "name": "FOJA Golf Tournament",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-07-23",
-      "time": "10:00 AM",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "FOJA",
-      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "518-634-7816"
-    },
-    {
-      "name": "FOJA Closed Tournament",
       "course": "Thunderhart Golf Course",
       "date": "2026-07-23",
       "time": "10:00 AM",
@@ -376,39 +167,6 @@
       "contact": "(518) 382-5155"
     },
     {
-      "name": "Mia Foundation Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-25",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Mia Foundation",
-      "registration_url": "",
-      "contact": "(518) 695-4902"
-    },
-    {
-      "name": "Mia Foundation Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-25",
-      "time": "Closed all day",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Mia Foundation",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills clubhouse: 518-695-4902"
-    },
-    {
-      "name": "Mia Foundation Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-25",
-      "time": "Course closed all day",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Mia Foundation",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "Mia Foundation Golf Outing",
       "course": "Windy Hills Golf Course",
       "date": "2026-07-25",
@@ -418,28 +176,6 @@
       "charity": "Mia Foundation",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
-    },
-    {
-      "name": "Mia Foundation Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-25",
-      "time": "Course closed all day; call clubhouse to confirm details",
-      "format": "scramble",
-      "cost": "Call clubhouse",
-      "charity": "Mia Foundation",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Mia Foundation Fundraiser Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-25",
-      "time": "Closed all day; call clubhouse for details",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Mia Foundation",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
     },
     {
       "name": "8th Annual Bob Best Memorial Golf Tournament",
@@ -486,29 +222,7 @@
       "contact": "(518) 325-0019"
     },
     {
-      "name": "Iapoce Memorial",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-07-31",
-      "time": "9:00 AM; closed tournament",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Iapoce Memorial",
-      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "Thunderhart Golf Course: 518-634-7816"
-    },
-    {
       "name": "Iapoce Memorial Golf Tournament",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-07-31",
-      "time": "9:00 AM",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Iapoce Memorial",
-      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "518-634-7816"
-    },
-    {
-      "name": "Iapoce Memorial Closed Tournament",
       "course": "Thunderhart Golf Course",
       "date": "2026-07-31",
       "time": "9:00 AM",
@@ -530,28 +244,6 @@
       "contact": "518-581-6616"
     },
     {
-      "name": "Fore the Cure",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-01",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Fore the Cure",
-      "registration_url": "",
-      "contact": "(518) 695-4902"
-    },
-    {
-      "name": "Fore the Cure Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-01",
-      "time": "Call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Fore the Cure",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "Fore the Cure Fundraiser Tournament",
       "course": "Windy Hills Golf Course",
       "date": "2026-08-01",
@@ -561,28 +253,6 @@
       "charity": "Fore the Cure",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
-    },
-    {
-      "name": "Fore the Cure Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-01",
-      "time": "Call clubhouse for tee times/availability",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Fore the Cure",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Fore the Cure Golf Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-01",
-      "time": "See course for tee availability",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Fore the Cure",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
     },
     {
       "name": "Bobby Baily Outing",
@@ -618,39 +288,6 @@
       "contact": "(518) 382-5155"
     },
     {
-      "name": "Fort Edward Basketball Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-08",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Fort Edward Basketball",
-      "registration_url": "",
-      "contact": "(518) 695-4902"
-    },
-    {
-      "name": "Fort Edward Basketball Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-08",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Fort Edward Basketball",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills clubhouse: 518-695-4902"
-    },
-    {
-      "name": "Fort Edward Basketball Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-08",
-      "time": "Call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Fort Edward Basketball",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "Fort Edward Basketball Golf Outing",
       "course": "Windy Hills Golf Course",
       "date": "2026-08-08",
@@ -660,50 +297,6 @@
       "charity": "Fort Edward Basketball",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
-    },
-    {
-      "name": "Fort Edward Basketball Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-08",
-      "time": "Call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "Call clubhouse",
-      "charity": "Fort Edward Basketball",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Fort Edward Basketball Fundraiser Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-08",
-      "time": "TBD; call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Fort Edward Basketball",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
-    },
-    {
-      "name": "Fort Edward Basketball Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-08",
-      "time": "Call clubhouse for tee times/availability",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Fort Edward Basketball",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Turn Back the Clock Golf Outing",
-      "course": "Schenectady Municipal Golf Course",
-      "date": "2026-08-08",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "",
-      "registration_url": "",
-      "contact": "(518) 382-5155"
     },
     {
       "name": "Sheffield Fire Tournament",
@@ -739,17 +332,6 @@
       "contact": "Saratoga Lake Golf Club, (518) 581-6616"
     },
     {
-      "name": "The Wesley Community's Saratoga 9 & Wine 2026",
-      "course": "Saratoga Lake Golf Club",
-      "date": "2026-08-11",
-      "time": "Registration 1:00 PM; 2:00 PM shotgun start",
-      "format": "scramble",
-      "cost": "$175 per person or $700 per foursome",
-      "charity": "The Wesley Community",
-      "registration_url": "https://saratogalakegolf.com/saratoga-9-wine-2026/",
-      "contact": "518-581-6616"
-    },
-    {
       "name": "Ladies Intercounty Outing",
       "course": "Copake Country Club",
       "date": "2026-08-13",
@@ -772,56 +354,12 @@
       "contact": "(518) 325-0019"
     },
     {
-      "name": "Kyle McLenithan Memorial",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "CLOSED until 1:00pm",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "",
-      "contact": "(518) 695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Closed until 1:00 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills clubhouse: 518-695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Course closed until 1:00 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "Kyle McLenithan Memorial Golf Outing",
       "course": "Windy Hills Golf Course",
       "date": "2026-08-15",
       "time": "Closed until 1:00 PM",
       "format": "scramble",
       "cost": "Not listed",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Course closed until 1:00 PM; call clubhouse to confirm details",
-      "format": "scramble",
-      "cost": "Call clubhouse",
       "charity": "Kyle McLenithan Memorial",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
@@ -1047,39 +585,6 @@
       "contact": "(518) 325-0019"
     },
     {
-      "name": "Norshaft Lions Club Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-09-27",
-      "time": "CLOSED until 2:00pm",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Norshaft Lions Club",
-      "registration_url": "",
-      "contact": "(518) 695-4902"
-    },
-    {
-      "name": "Norshaft Lions Club Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-09-27",
-      "time": "Closed until 2:00 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Norshaft Lions Club",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills clubhouse: 518-695-4902"
-    },
-    {
-      "name": "Norshaft Lions Club Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-09-27",
-      "time": "Course closed until 2:00 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Norshaft Lions Club",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
       "name": "Norshaft Lions Club Golf Outing",
       "course": "Windy Hills Golf Course",
       "date": "2026-09-27",
@@ -1089,28 +594,6 @@
       "charity": "Norshaft Lions Club",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
-    },
-    {
-      "name": "Norshaft Lions Club Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-09-27",
-      "time": "Course closed until 2:00 PM; call clubhouse to confirm details",
-      "format": "scramble",
-      "cost": "Call clubhouse",
-      "charity": "Norshaft Lions Club",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Norshaft Lions Club Fundraiser Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-09-27",
-      "time": "Closed until 2:00 PM; call clubhouse for details",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Norshaft Lions Club",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
     },
     {
       "name": "Impossible Pin Golf Tournament",

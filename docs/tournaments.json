@@ -442,6 +442,17 @@
       "contact": "Windy Hills Golf Course clubhouse, 518-695-4902"
     },
     {
+      "name": "8th Annual Bob Best Memorial Golf Tournament",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-07-25",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Bob Best Memorial",
+      "registration_url": "https://saratogalakegolf.com/latest-news/",
+      "contact": "518-581-6616"
+    },
+    {
       "name": "Rattlers Outing",
       "course": "Copake Country Club",
       "date": "2026-07-26",
@@ -891,6 +902,17 @@
       "charity": "NEWGA",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Canaan VFW Golf Tournament",
+      "course": "Copake Country Club",
+      "date": "2026-08-26",
+      "time": "11am shotgun",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Canaan VFW",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "info@copakecountryclub.com"
     },
     {
       "name": "HFD Connor Outing",

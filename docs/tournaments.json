@@ -1177,6 +1177,17 @@
       "charity": "Bomber Boosters",
       "registration_url": "https://calendar.google.com/calendar/ical/copakeevents%40gmail.com/public/basic.ics",
       "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
+    },
+    {
+      "name": "Charity Scramble",
+      "course": "",
+      "date": "",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "",
+      "contact": ""
     }
   ]
 }

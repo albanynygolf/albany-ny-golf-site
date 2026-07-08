@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "tournaments": [
     {
       "name": "Live Like Liv Foundation Golf Outing",
@@ -341,6 +341,17 @@
       "charity": "Fort Edward Basketball",
       "registration_url": "",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Turn Back the Clock Golf Tournament",
+      "course": "Schenectady Municipal Golf Course",
+      "date": "2026-08-08",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Turn Back the Clock",
+      "registration_url": "",
+      "contact": "518-382-5155"
     },
     {
       "name": "Sheffield Fire Tournament",

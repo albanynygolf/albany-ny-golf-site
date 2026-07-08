@@ -178,6 +178,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Middle Falls Fire Department Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-19",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Middle Falls Fire Department",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "FOJA Golf Outing",
       "course": "Van Patten Golf Club",
       "date": "2026-07-23",
@@ -332,6 +343,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Fore the Cure Golf Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-01",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fore the Cure",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "CLCS Outing",
       "course": "Copake Country Club",
       "date": "2026-08-07",
@@ -396,6 +418,17 @@
       "charity": "Fort Edward Basketball",
       "registration_url": "",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Turn Back the Clock Golf Outing",
+      "course": "Schenectady Municipal Golf Course",
+      "date": "2026-08-08",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Turn Back the Clock",
+      "registration_url": "https://schenectadygolf.com/events-calender/",
+      "contact": "schenectadygolf@gmail.com"
     },
     {
       "name": "Sheffield Fire Tournament",
@@ -629,6 +662,17 @@
       "contact": "(518) 325-0019"
     },
     {
+      "name": "Canaan VFW Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-09-11",
+      "time": "11:00 AM (course opens at 3:30)",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Canaan VFW",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-0019"
+    },
+    {
       "name": "Idle Hour Invitational",
       "course": "Windy Hills Golf Course",
       "date": "2026-09-13",
@@ -671,6 +715,17 @@
       "charity": "NYSANA (New York State Association of Nurse Anesthetists)",
       "registration_url": "",
       "contact": "proshop@saratogaspagolf.com"
+    },
+    {
+      "name": "Goldleaf Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-09-18",
+      "time": "Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Goldleaf",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-0019"
     },
     {
       "name": "Saratoga 9 & Wine 2026",

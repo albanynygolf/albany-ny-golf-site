@@ -57,6 +57,17 @@
       "contact": "518-325-0019"
     },
     {
+      "name": "ChildVoice Golf Outing",
+      "course": "Van Patten Golf Club",
+      "date": "2026-07-16",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "ChildVoice",
+      "registration_url": "",
+      "contact": "518-877-5400"
+    },
+    {
       "name": "8th Annual Bob Best Memorial Golf Tournament",
       "course": "Saratoga Lake Golf Club",
       "date": "2026-07-17",
@@ -90,6 +101,17 @@
       "contact": "info@copakecountryclub.com; (518) 325-0019"
     },
     {
+      "name": "Easton Republicans Committee Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-18",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Easton Republicans Committee",
+      "registration_url": "",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Bomber Booster Club Outing",
       "course": "Copake Country Club",
       "date": "2026-07-19",
@@ -109,6 +131,17 @@
       "cost": "Call clubhouse",
       "charity": "Middle Falls Fire Department",
       "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Middle Falls Fire Department Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-19",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Middle Falls Fire Department",
+      "registration_url": "",
       "contact": "518-695-4902"
     },
     {
@@ -165,6 +198,17 @@
       "charity": "Bob Best Memorial",
       "registration_url": "https://saratogalakegolf.com/latest-news/",
       "contact": "518-581-6616"
+    },
+    {
+      "name": "Mia Foundation Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-25",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Mia Foundation",
+      "registration_url": "",
+      "contact": "518-695-4902"
     },
     {
       "name": "Rattlers Outing",
@@ -244,6 +288,17 @@
       "contact": "518-325-0019"
     },
     {
+      "name": "Fore the Cure Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-01",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fore the Cure",
+      "registration_url": "",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "CLCS Outing",
       "course": "Copake Country Club",
       "date": "2026-08-07",
@@ -274,6 +329,17 @@
       "cost": "Not listed",
       "charity": "Fort Edward Basketball",
       "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Fort Edward Basketball Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-08",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fort Edward Basketball",
+      "registration_url": "",
       "contact": "518-695-4902"
     },
     {
@@ -329,6 +395,17 @@
       "cost": "Not listed",
       "charity": "Kyle McLenithan Memorial",
       "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Kyle McLenithan Memorial Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-15",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Kyle McLenithan Memorial",
+      "registration_url": "",
       "contact": "518-695-4902"
     },
     {
@@ -538,6 +615,17 @@
       "cost": "Not listed",
       "charity": "Norshaft Lions Club",
       "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Norshaft Lions Club Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-27",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Norshaft Lions Club",
+      "registration_url": "",
       "contact": "518-695-4902"
     },
     {

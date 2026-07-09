@@ -266,6 +266,17 @@
       "contact": "518-634-7816"
     },
     {
+      "name": "FOJA Closed Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-07-23",
+      "time": "10:00 AM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "FOJA",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
+      "contact": "518-634-7816"
+    },
+    {
       "name": "Van Curler Cup",
       "course": "Schenectady Municipal Golf Course",
       "date": "2026-07-24",
@@ -332,6 +343,17 @@
       "contact": "Windy Hills Golf Course: 518-695-4902"
     },
     {
+      "name": "Mia Foundation Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-25",
+      "time": "Closed all day",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Mia Foundation",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Rattlers Outing",
       "course": "Copake Country Club",
       "date": "2026-07-26",
@@ -385,6 +407,17 @@
       "charity": "Bob Best Memorial",
       "registration_url": "https://saratogalakegolf.com/latest-news/",
       "contact": "518-581-6616"
+    },
+    {
+      "name": "Iapoce Memorial Closed Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-07-31",
+      "time": "9:00 AM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Iapoce Memorial",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
+      "contact": "518-634-7816"
     },
     {
       "name": "Fore the Cure Fundraiser Tournament",
@@ -443,6 +476,17 @@
     },
     {
       "name": "Fore the Cure",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-01",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fore the Cure",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Fore the Cure Tournament",
       "course": "Windy Hills Golf Course",
       "date": "2026-08-01",
       "time": "",
@@ -539,6 +583,17 @@
       "charity": "Fort Edward Basketball",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "Windy Hills Golf Course: 518-695-4902"
+    },
+    {
+      "name": "Fort Edward Basketball Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-08",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fort Edward Basketball",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
     },
     {
       "name": "Sheffield Fire Tournament",
@@ -638,6 +693,17 @@
       "charity": "Kyle McLenithan Memorial",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "Windy Hills Golf Course: 518-695-4902"
+    },
+    {
+      "name": "Kyle McLenithan Memorial Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-15",
+      "time": "Closed until 1:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Kyle McLenithan Memorial",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
     },
     {
       "name": "Hudson HS Outing",
@@ -924,6 +990,17 @@
       "charity": "Norshaft Lions Club",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "Windy Hills Golf Course: 518-695-4902"
+    },
+    {
+      "name": "Norshaft Lions Club Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-27",
+      "time": "Closed until 2:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Norshaft Lions Club",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
     },
     {
       "name": "Impossible Pin Golf Tournament",

@@ -90,6 +90,17 @@
       "contact": "(518) 877-5400"
     },
     {
+      "name": "ChildVoice Charitable Golf Outing",
+      "course": "Van Patten Golf Club",
+      "date": "2026-07-16",
+      "time": "TBD",
+      "format": "scramble",
+      "cost": "",
+      "charity": "ChildVoice",
+      "registration_url": "https://www.vanpattengolf.com/outings",
+      "contact": "518-877-5400"
+    },
+    {
       "name": "8th Annual Bob Best Memorial Golf Tournament",
       "course": "Saratoga Lake Golf Club",
       "date": "2026-07-17",
@@ -288,6 +299,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Mia Foundation Golf Fundraiser",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-25",
+      "time": "Closed all day",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Mia Foundation",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "Rattlers Outing",
       "course": "Copake Country Club",
       "date": "2026-07-26",
@@ -380,6 +402,17 @@
       "course": "Windy Hills Golf Course",
       "date": "2026-08-01",
       "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fore the Cure",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Fore the Cure Golf Fundraiser",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-01",
+      "time": "TBD",
       "format": "scramble",
       "cost": "",
       "charity": "Fore the Cure",
@@ -802,6 +835,17 @@
       "cost": "",
       "charity": "Norshaft Lions Club",
       "registration_url": "",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Norshaft Lions Club Golf Fundraiser",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-27",
+      "time": "Closed until 2:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Norshaft Lions Club",
+      "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
     },
     {

@@ -420,6 +420,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Fore the Cure",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-01",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fore the Cure",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
       "name": "CLCS Outing",
       "course": "Copake Country Club",
       "date": "2026-08-07",
@@ -527,6 +538,17 @@
       "cost": "$175 per person or $700 per foursome",
       "charity": "The Wesley Community",
       "registration_url": "",
+      "contact": "(518) 581-6616"
+    },
+    {
+      "name": "The Wesley Community's Saratoga 9 & Wine 2026",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-08-11",
+      "time": "Registration 1:00 PM; shotgun start 2:00 PM",
+      "format": "scramble",
+      "cost": "$175 per person or $700 per foursome",
+      "charity": "The Wesley Community",
+      "registration_url": "https://saratogalakegolf.com/events/saratoga-9-wine/",
       "contact": "(518) 581-6616"
     },
     {

@@ -222,6 +222,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "Middle Falls Fire Department Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-19",
+      "time": "Not listed",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Middle Falls Fire Department",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills Golf Course: 518-695-4902"
+    },
+    {
       "name": "2nd Annual Paws On The Green Golf Tournament",
       "course": "Saratoga Lake Golf Club",
       "date": "2026-07-21",
@@ -308,6 +319,17 @@
       "charity": "Mia Foundation",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Mia Foundation Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-07-25",
+      "time": "Course closed all day",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Mia Foundation",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills Golf Course: 518-695-4902"
     },
     {
       "name": "Rattlers Outing",
@@ -508,6 +530,17 @@
       "contact": "schenectadygolf@gmail.com"
     },
     {
+      "name": "Fort Edward Basketball Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-08",
+      "time": "Not listed",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Fort Edward Basketball",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills Golf Course: 518-695-4902"
+    },
+    {
       "name": "Sheffield Fire Tournament",
       "course": "Copake Country Club",
       "date": "2026-08-09",
@@ -594,6 +627,17 @@
       "charity": "Kyle McLenithan Memorial",
       "registration_url": "",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Kyle McLenithan Memorial Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-15",
+      "time": "Course closed until 1:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Kyle McLenithan Memorial",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills Golf Course: 518-695-4902"
     },
     {
       "name": "Hudson HS Outing",
@@ -869,6 +913,17 @@
       "charity": "Norshaft Lions Club",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Norshaft Lions Club Outing",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-27",
+      "time": "Course closed until 2:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Norshaft Lions Club",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "Windy Hills Golf Course: 518-695-4902"
     },
     {
       "name": "Impossible Pin Golf Tournament",

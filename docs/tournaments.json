@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-15",
   "tournaments": [
-    {
-      "name": "Paws On The Green Golf Tournament",
-      "course": "Saratoga Lake Golf Club",
-      "date": "2026-07-14",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Paws On The Green",
-      "registration_url": "",
-      "contact": "(518) 581-6616"
-    },
     {
       "name": "American Lions Outing",
       "course": "Copake Country Club",

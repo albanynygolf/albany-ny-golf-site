@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "tournaments": [
-    {
-      "name": "American Lions Outing",
-      "course": "Copake Country Club",
-      "date": "2026-07-15",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "American Lions",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
-    },
     {
       "name": "ChildVoice Charity Outing",
       "course": "Van Patten Golf Club",

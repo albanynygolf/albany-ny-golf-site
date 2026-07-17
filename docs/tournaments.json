@@ -1,61 +1,6 @@
 {
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "tournaments": [
-    {
-      "name": "ChildVoice Charity Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-16",
-      "time": "Not listed",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "ChildVoice",
-      "registration_url": "https://www.vanpattengolf.com/outings",
-      "contact": "518-877-5400"
-    },
-    {
-      "name": "CLCS Summer Bash",
-      "course": "Copake Country Club",
-      "date": "2026-07-16",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "CLCS",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "518-325-0019"
-    },
-    {
-      "name": "ChildVoice Golf Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-16",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "ChildVoice",
-      "registration_url": "",
-      "contact": "518-877-5400"
-    },
-    {
-      "name": "ChildVoice Charity Golf Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-16",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "ChildVoice",
-      "registration_url": "",
-      "contact": "(518) 877-5400"
-    },
-    {
-      "name": "ChildVoice Charitable Golf Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-16",
-      "time": "TBD",
-      "format": "scramble",
-      "cost": "",
-      "charity": "ChildVoice",
-      "registration_url": "https://www.vanpattengolf.com/outings",
-      "contact": "518-877-5400"
-    },
     {
       "name": "8th Annual Bob Best Memorial Golf Tournament",
       "course": "Saratoga Lake Golf Club",

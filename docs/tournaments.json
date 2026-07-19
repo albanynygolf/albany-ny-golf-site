@@ -1,61 +1,6 @@
 {
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "tournaments": [
-    {
-      "name": "Easton Republicans Committee Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "Call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "Call clubhouse",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "CLCS Summer Bash",
-      "course": "Copake Country Club",
-      "date": "2026-07-18",
-      "time": "Not listed",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "CLCS",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "info@copakecountryclub.com; (518) 325-0019"
-    },
-    {
-      "name": "Easton Republicans Committee Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Easton Republicans Committee Golf Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Easton Republicans Committee Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-18",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Easton Republicans Committee",
-      "registration_url": "",
-      "contact": "518-695-4902"
-    },
     {
       "name": "Bomber Booster Club Outing",
       "course": "Copake Country Club",

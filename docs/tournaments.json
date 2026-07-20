@@ -1,72 +1,6 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "tournaments": [
-    {
-      "name": "Bomber Booster Club Outing",
-      "course": "Copake Country Club",
-      "date": "2026-07-19",
-      "time": "Course opens at 3:30 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Bomber Booster Club",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
-    },
-    {
-      "name": "Middle Falls Fire Department Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "Call clubhouse to confirm tee times",
-      "format": "scramble",
-      "cost": "Call clubhouse",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Golf Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Middle Falls Fire Department Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-07-19",
-      "time": "Not listed",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Middle Falls Fire Department",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills Golf Course: 518-695-4902"
-    },
     {
       "name": "2nd Annual Paws On The Green Golf Tournament",
       "course": "Saratoga Lake Golf Club",
@@ -429,6 +363,17 @@
       "charity": "Fort Edward Basketball",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Turn Back the Clock Golf Event",
+      "course": "Schenectady Municipal Golf Course",
+      "date": "2026-08-08",
+      "time": "Event date listed; time not specified",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Not specified",
+      "registration_url": "https://schenectadygolf.com/events-calender/",
+      "contact": "schenectadygolf@gmail.com; 518-382-5155"
     },
     {
       "name": "Sheffield Fire Tournament",

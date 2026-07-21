@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "tournaments": [
     {
       "name": "2nd Annual Paws On The Green Golf Tournament",
@@ -748,6 +748,17 @@
       "charity": "Barrett",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Barrett Outing",
+      "course": "Copake Country Club",
+      "date": "2026-09-25",
+      "time": "Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Not listed",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-4338; info@copakecountryclub.com"
     },
     {
       "name": "Norshaft Lions Club Golf Outing",

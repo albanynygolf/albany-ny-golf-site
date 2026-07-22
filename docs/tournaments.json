@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "tournaments": [
-    {
-      "name": "2nd Annual Paws On The Green Golf Tournament",
-      "course": "Saratoga Lake Golf Club",
-      "date": "2026-07-21",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Paws On The Green",
-      "registration_url": "https://saratogalakegolf.com/latest-news/",
-      "contact": "518-581-6616"
-    },
     {
       "name": "FOJA Golf Outing",
       "course": "Van Patten Golf Club",

@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "tournaments": [
-    {
-      "name": "FOJA Golf Outing",
-      "course": "Van Patten Golf Club",
-      "date": "2026-07-23",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "FOJA",
-      "registration_url": "",
-      "contact": "(518) 877-5400"
-    },
-    {
-      "name": "FOJA Golf Tournament",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-07-23",
-      "time": "10:00 AM",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "FOJA",
-      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "518-634-7816"
-    },
-    {
-      "name": "FOJA Closed Tournament",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-07-23",
-      "time": "10:00 AM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "FOJA",
-      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "518-634-7816"
-    },
     {
       "name": "Van Curler Cup",
       "course": "Schenectady Municipal Golf Course",
@@ -376,6 +343,17 @@
       "contact": "info@copakecountryclub.com; 518-325-0019"
     },
     {
+      "name": "Berkshire Rattlers Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-08-09",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "",
+      "contact": "info@copakecountryclub.com"
+    },
+    {
       "name": "The Wesley Community Saratoga 9 & Wine 2026",
       "course": "Saratoga Lake Golf Club",
       "date": "2026-08-11",
@@ -407,6 +385,17 @@
       "charity": "The Wesley Community",
       "registration_url": "https://saratogalakegolf.com/events/saratoga-9-wine/",
       "contact": "(518) 581-6616"
+    },
+    {
+      "name": "Saratoga 9 & Wine 2026 - The Wesley Community",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-08-11",
+      "time": "Registration 1:00 PM, Shotgun 2:00 PM",
+      "format": "scramble",
+      "cost": "$175 per person / $700 per foursome",
+      "charity": "The Wesley Community (Saratoga seniors care)",
+      "registration_url": "https://saratogalakegolf.com/saratoga-9-wine-2026/",
+      "contact": "518-581-6616"
     },
     {
       "name": "Ladies Intercounty Outing",
@@ -495,6 +484,17 @@
       "charity": "Hudson HS",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Hudson High School Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-08-17",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "",
+      "contact": "info@copakecountryclub.com"
     },
     {
       "name": "Columbia County Sheriffs Outing",
@@ -662,6 +662,17 @@
       "contact": "518-325-0019"
     },
     {
+      "name": "Canaan VFW Outing",
+      "course": "Copake Country Club",
+      "date": "2026-09-11",
+      "time": "11 AM start, Course opens at 3:30 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "",
+      "contact": "info@copakecountryclub.com"
+    },
+    {
       "name": "Idle Hour Invitational",
       "course": "Windy Hills Golf Course",
       "date": "2026-09-13",
@@ -671,6 +682,17 @@
       "charity": "Idle Hour",
       "registration_url": "",
       "contact": "(518) 695-4902"
+    },
+    {
+      "name": "Idle Hour Invitational Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-13",
+      "time": "Course closed until 2:00 PM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Idle Hour Invitational",
+      "registration_url": "",
+      "contact": "518-695-4902"
     },
     {
       "name": "Frank Z VFW Outing",

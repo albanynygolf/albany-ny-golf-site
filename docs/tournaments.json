@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "tournaments": [
-    {
-      "name": "Van Curler Cup",
-      "course": "Schenectady Municipal Golf Course",
-      "date": "2026-07-24",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "",
-      "registration_url": "",
-      "contact": "(518) 382-5155"
-    },
     {
       "name": "Mia Foundation Golf Outing",
       "course": "Windy Hills Golf Course",
@@ -330,6 +319,17 @@
       "charity": "Not specified",
       "registration_url": "https://schenectadygolf.com/events-calender/",
       "contact": "schenectadygolf@gmail.com; 518-382-5155"
+    },
+    {
+      "name": "Member Event Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-08-08",
+      "time": "Course open",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "",
+      "contact": "info@copakecountryclub.com"
     },
     {
       "name": "Sheffield Fire Tournament",
@@ -770,6 +770,17 @@
       "charity": "Not listed",
       "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
       "contact": "518-325-4338; info@copakecountryclub.com"
+    },
+    {
+      "name": "Bobby Bailly Outing",
+      "course": "Copake Country Club",
+      "date": "2026-09-25",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "",
+      "registration_url": "",
+      "contact": "info@copakecountryclub.com"
     },
     {
       "name": "Norshaft Lions Club Golf Outing",

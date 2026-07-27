@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "tournaments": [
-    {
-      "name": "Rattlers Outing",
-      "course": "Copake Country Club",
-      "date": "2026-07-26",
-      "time": "Course opens at 3:30 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Rattlers",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
-    },
     {
       "name": "Hook A Kid On Golf Charity Outing",
       "course": "Schenectady Municipal Golf Course",

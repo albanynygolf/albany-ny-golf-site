@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "tournaments": [
     {
       "name": "Hook A Kid On Golf Charity Outing",
@@ -383,6 +383,17 @@
       "format": "scramble",
       "cost": "",
       "charity": "Kyle McLenithan Memorial",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Kyle McLenithan Memorial",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-15",
+      "time": "Course closed until 1:00 PM; call clubhouse for tee times",
+      "format": "scramble",
+      "cost": "Not specified",
+      "charity": "Kyle McLenithan Memorial (organization not specified)",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
     },

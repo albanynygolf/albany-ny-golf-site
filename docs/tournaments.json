@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "tournaments": [
-    {
-      "name": "Hook A Kid On Golf Charity Outing",
-      "course": "Schenectady Municipal Golf Course",
-      "date": "2026-07-28",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Hook a Kid on Golf (USGA youth golf program)",
-      "registration_url": "",
-      "contact": "(518) 382-5155"
-    },
     {
       "name": "Bobby Baily Outing",
       "course": "Copake Country Club",
@@ -431,6 +420,17 @@
       "contact": "info@copakecountryclub.com"
     },
     {
+      "name": "Hudson HS Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-08-17",
+      "time": "Not specified",
+      "format": "scramble",
+      "cost": "Not specified",
+      "charity": "Hudson High School",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-4338 / proshop@copakecountryclub.com"
+    },
+    {
       "name": "Columbia County Sheriffs Outing",
       "course": "Copake Country Club",
       "date": "2026-08-19",
@@ -847,6 +847,17 @@
       "charity": "Bomber Boosters",
       "registration_url": "https://calendar.google.com/calendar/ical/copakeevents%40gmail.com/public/basic.ics",
       "contact": "Copake Country Club / The Greens: (518) 325-0019; info@copakecountryclub.com"
+    },
+    {
+      "name": "Berkshire Rattlers Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2027-06-25",
+      "time": "Not specified",
+      "format": "scramble",
+      "cost": "Not specified",
+      "charity": "Berkshire Rattlers",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "518-325-4338 / proshop@copakecountryclub.com"
     },
     {
       "name": "Charity Scramble",

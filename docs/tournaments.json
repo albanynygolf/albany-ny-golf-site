@@ -1,28 +1,6 @@
 {
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "tournaments": [
-    {
-      "name": "Sheffield Fire Tournament",
-      "course": "Copake Country Club",
-      "date": "2026-08-09",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Sheffield Fire Department",
-      "registration_url": "https://calendar.google.com/calendar/ical/copakeevents%40gmail.com/public/basic.ics",
-      "contact": "info@copakecountryclub.com; 518-325-0019"
-    },
-    {
-      "name": "Berkshire Rattlers Golf Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-09",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "",
-      "registration_url": "",
-      "contact": "info@copakecountryclub.com"
-    },
     {
       "name": "The Wesley Community Saratoga 9 & Wine 2026",
       "course": "Saratoga Lake Golf Club",
@@ -141,6 +119,17 @@
       "format": "scramble",
       "cost": "Not specified",
       "charity": "Kyle McLenithan Memorial (organization not specified)",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Kyle McLenithan Memorial Golf Fundraiser",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-08-15",
+      "time": "Course closed until 1:00 PM",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Kyle McLenithan Memorial Fundraiser",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
     },
@@ -274,6 +263,17 @@
       "cost": "",
       "charity": "Wounded Warriors",
       "registration_url": "https://thunderhartgolf.com/tournaments/tournament-calendar",
+      "contact": "518-634-7816"
+    },
+    {
+      "name": "Thunderhart Golf's Fore Charity Tournament - Wounded Warriors Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-08-22",
+      "time": "10:00 AM",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Wounded Warriors (organization specified on course calendar)",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
       "contact": "518-634-7816"
     },
     {

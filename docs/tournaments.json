@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "tournaments": [
     {
       "name": "Ladies Intercounty Outing",
@@ -288,6 +288,17 @@
       "contact": "(518) 325-0019"
     },
     {
+      "name": "3rd Annual Scotties Par-Tee Scramble",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-09-03",
+      "time": "Not listed",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Scotties",
+      "registration_url": "https://saratogalakegolf.com/latest-news/",
+      "contact": "518-581-6616"
+    },
+    {
       "name": "75th Anniversary Pro-Am",
       "course": "Schenectady Municipal Golf Course",
       "date": "2026-09-07",
@@ -519,6 +530,17 @@
       "contact": "518-695-4902"
     },
     {
+      "name": "8th Annual Bob Best Memorial Golf Tournament",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-09-??",
+      "time": "Not listed",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "Bob Best Memorial",
+      "registration_url": "https://saratogalakegolf.com/latest-news/",
+      "contact": "518-581-6616"
+    },
+    {
       "name": "Impossible Pin Golf Tournament",
       "course": "Windy Hills Golf Course",
       "date": "2026-10-02",
@@ -583,6 +605,17 @@
       "charity": "Windy Hills Golf Course",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "The Wesley Community Saratoga 9 & Wine 2026",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-??-??",
+      "time": "Not listed",
+      "format": "scramble",
+      "cost": "Not listed",
+      "charity": "The Wesley Community",
+      "registration_url": "https://saratogalakegolf.com/latest-news/",
+      "contact": "518-581-6616"
     },
     {
       "name": "Bomber Boosters Outing",

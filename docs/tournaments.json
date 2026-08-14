@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "tournaments": [
-    {
-      "name": "Ladies Intercounty Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-13",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Ladies Intercounty",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
     {
       "name": "Herringtons Outing",
       "course": "Copake Country Club",
@@ -154,6 +143,17 @@
       "charity": "Columbia County Sheriffs",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Columbia County Sheriffs Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2026-08-19",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Columbia County Sheriff's Office",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "info@copakecountryclub.com"
     },
     {
       "name": "COARC Outing",

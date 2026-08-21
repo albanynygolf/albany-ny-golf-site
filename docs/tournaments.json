@@ -1,171 +1,6 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "tournaments": [
-    {
-      "name": "Herringtons Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-14",
-      "time": "Course opens at 3:30 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Herringtons",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Golf Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Closed until 1:00 PM",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Golf Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Outing",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Course closed until 1:00 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "Windy Hills Golf Course: 518-695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Tournament",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Closed until 1:00 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Kyle McLenithan Memorial",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Course closed until 1:00 PM; call clubhouse for tee times",
-      "format": "scramble",
-      "cost": "Not specified",
-      "charity": "Kyle McLenithan Memorial (organization not specified)",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Kyle McLenithan Memorial Golf Fundraiser",
-      "course": "Windy Hills Golf Course",
-      "date": "2026-08-15",
-      "time": "Course closed until 1:00 PM",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Kyle McLenithan Memorial Fundraiser",
-      "registration_url": "https://windyhillsgolf.com/events/",
-      "contact": "518-695-4902"
-    },
-    {
-      "name": "Veterans Tournament",
-      "course": "Brookhaven Golf Course",
-      "date": "2026-08-16",
-      "time": "8:00 AM\u20135:00 PM",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Veterans",
-      "registration_url": "https://www.brookhavengolfcourse.com/events/upcoming-events",
-      "contact": "518-893-7458"
-    },
-    {
-      "name": "Hudson HS Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-17",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Hudson HS",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
-    {
-      "name": "Hudson High School Golf Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-17",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "",
-      "registration_url": "",
-      "contact": "info@copakecountryclub.com"
-    },
-    {
-      "name": "Hudson HS Golf Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-17",
-      "time": "Not specified",
-      "format": "scramble",
-      "cost": "Not specified",
-      "charity": "Hudson High School",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "518-325-4338 / proshop@copakecountryclub.com"
-    },
-    {
-      "name": "Hudson High Class of 2026 Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-17",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Hudson High School Class of 2026",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "518-325-4338; proshop@copakecountryclub.com"
-    },
-    {
-      "name": "Columbia County Sheriffs Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Columbia County Sheriffs",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
-    {
-      "name": "Columbia County Sheriffs Golf Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-19",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Columbia County Sheriff's Office",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "info@copakecountryclub.com"
-    },
-    {
-      "name": "COARC Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-20",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "COARC",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
     {
       "name": "Chad Scholarship Outing",
       "course": "Copake Country Club",
@@ -297,6 +132,17 @@
       "charity": "Scotties",
       "registration_url": "https://saratogalakegolf.com/latest-news/",
       "contact": "518-581-6616"
+    },
+    {
+      "name": "American Legion Post 291 Golf Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-09-05",
+      "time": "Not specified",
+      "format": "scramble",
+      "cost": "Not specified",
+      "charity": "American Legion Post 291",
+      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar/eventdetail/709/-/american-legion-post-291-golf-tournament-open-to-the-public",
+      "contact": "+1-518-634-7816"
     },
     {
       "name": "75th Anniversary Pro-Am",
@@ -638,6 +484,17 @@
       "charity": "Berkshire Rattlers",
       "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
       "contact": "518-325-4338 / proshop@copakecountryclub.com"
+    },
+    {
+      "name": "CLCS Outing",
+      "course": "Copake Country Club",
+      "date": "2027-08-06",
+      "time": "All day",
+      "format": "scramble",
+      "cost": "Not specified",
+      "charity": "Not specified",
+      "registration_url": "https://calendar.google.com/calendar/ical/copakeevents%40gmail.com/public/basic.ics",
+      "contact": "+1-518-325-4338; copakeevents@gmail.com"
     },
     {
       "name": "Charity Scramble",

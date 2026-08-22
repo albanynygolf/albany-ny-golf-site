@@ -1,28 +1,6 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "tournaments": [
-    {
-      "name": "Chad Scholarship Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-21",
-      "time": "10:00 AM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Chad Scholarship",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
-    {
-      "name": "Chad Scholarship",
-      "course": "The Greens at Copake Country Club",
-      "date": "2026-08-21",
-      "time": "2:00 PM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Chad Scholarship",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "(518) 325-0019 / info@copakecountryclub.com"
-    },
     {
       "name": "Wounded Warriors Project Outing",
       "course": "Copake Country Club",

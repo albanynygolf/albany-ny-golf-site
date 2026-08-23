@@ -1,61 +1,6 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "tournaments": [
-    {
-      "name": "Wounded Warriors Project Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-22",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Wounded Warriors Project",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
-    {
-      "name": "4th Annual Thunderhart Golfs Fore Charity Tournament",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-08-22",
-      "time": "Registration 10:00-10:45 AM; Shotgun 11:00 AM",
-      "format": "scramble",
-      "cost": "$140 per person includes 18 holes, cart, lunch and dinner",
-      "charity": "Wounded Warriors Project",
-      "registration_url": "https://www.thunderhartgolf.com/",
-      "contact": "518-634-2268"
-    },
-    {
-      "name": "Thunderhart Golfs Fore Charity Tournament: Wounded Warriors Project",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-08-22",
-      "time": "10:00-10:45 AM registration; 11:00 AM shotgun start; 4:00 PM dinner",
-      "format": "scramble",
-      "cost": "$140 per person includes 18 holes, cart, lunch and dinner",
-      "charity": "Wounded Warriors Project",
-      "registration_url": "https://www.thunderhartgolf.com/",
-      "contact": "Gerri: thunderhartgolfny@gmail.com or 518-634-2268"
-    },
-    {
-      "name": "Thunderhart Golf's Fore Charity Tournament - Wounded Warriors",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-08-22",
-      "time": "10:00 AM",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Wounded Warriors",
-      "registration_url": "https://thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "518-634-7816"
-    },
-    {
-      "name": "Thunderhart Golf's Fore Charity Tournament - Wounded Warriors Tournament",
-      "course": "Thunderhart Golf Course",
-      "date": "2026-08-22",
-      "time": "10:00 AM",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Wounded Warriors (organization specified on course calendar)",
-      "registration_url": "https://www.thunderhartgolf.com/tournaments/tournament-calendar",
-      "contact": "518-634-7816"
-    },
     {
       "name": "NEWGA Outing",
       "course": "Copake Country Club",
@@ -473,6 +418,17 @@
       "charity": "Not specified",
       "registration_url": "https://calendar.google.com/calendar/ical/copakeevents%40gmail.com/public/basic.ics",
       "contact": "+1-518-325-4338; copakeevents@gmail.com"
+    },
+    {
+      "name": "Richard Chad Outing",
+      "course": "Copake Country Club",
+      "date": "2027-08-20",
+      "time": "Not specified",
+      "format": "scramble",
+      "cost": "Not specified",
+      "charity": "Richard Chad",
+      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
+      "contact": "copakeevents@gmail.com; 518-325-4338"
     },
     {
       "name": "Charity Scramble",

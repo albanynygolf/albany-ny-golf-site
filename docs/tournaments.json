@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "tournaments": [
-    {
-      "name": "NEWGA Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-24",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "NEWGA",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
     {
       "name": "Canaan VFW Golf Tournament",
       "course": "Copake Country Club",
@@ -167,6 +156,17 @@
       "contact": "(518) 325-0019"
     },
     {
+      "name": "4th Annual Ronald McDonald House Albany Golf Tournament",
+      "course": "Saratoga Lake Golf Club",
+      "date": "2026-09-17",
+      "time": "Morning flight tee time 7:00 AM; afternoon flight tee time 1:00 PM",
+      "format": "scramble",
+      "cost": "$350 individual / $1,100 foursome morning; $450 individual / $1,400 foursome afternoon",
+      "charity": "Ronald McDonald House Albany",
+      "registration_url": "https://saratogalakegolf.com/4th-annual-ronald-mcdonald-house-albany-golf-tournament/",
+      "contact": "(518) 581-6616"
+    },
+    {
       "name": "Goldleaf Outing",
       "course": "Copake Country Club",
       "date": "2026-09-18",
@@ -294,6 +294,17 @@
       "time": "Closed until 2:00 PM",
       "format": "scramble",
       "cost": "",
+      "charity": "Norshaft Lions Club",
+      "registration_url": "https://windyhillsgolf.com/events/",
+      "contact": "518-695-4902"
+    },
+    {
+      "name": "Norshaft Lions Club Golf Event",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-27",
+      "time": "Course closed until 2:00 PM",
+      "format": "scramble",
+      "cost": "Not listed",
       "charity": "Norshaft Lions Club",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"

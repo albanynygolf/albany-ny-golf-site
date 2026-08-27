@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "tournaments": [
-    {
-      "name": "Canaan VFW Golf Tournament",
-      "course": "Copake Country Club",
-      "date": "2026-08-26",
-      "time": "11am shotgun",
-      "format": "scramble",
-      "cost": "",
-      "charity": "Canaan VFW",
-      "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
-      "contact": "info@copakecountryclub.com"
-    },
     {
       "name": "HFD Connor Outing",
       "course": "Copake Country Club",
@@ -209,6 +198,17 @@
       "charity": "The Wesley Community",
       "registration_url": "",
       "contact": "(518) 581-6616"
+    },
+    {
+      "name": "Easton Republicans Golf Tournament",
+      "course": "Windy Hills Golf Course",
+      "date": "2026-09-19",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Easton Republicans",
+      "registration_url": "",
+      "contact": "518-695-4902"
     },
     {
       "name": "Barrett Tournament",

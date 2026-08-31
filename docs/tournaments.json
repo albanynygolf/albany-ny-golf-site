@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "tournaments": [
     {
       "name": "JODI D Outing",
@@ -387,6 +387,17 @@
       "contact": "518-581-6616"
     },
     {
+      "name": "Hudson PD Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2027-05-14",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Hudson Police Department",
+      "registration_url": "",
+      "contact": "518-325-4338; proshop@copakecountryclub.com"
+    },
+    {
       "name": "Bomber Boosters Outing",
       "course": "Copake Country Club",
       "date": "2027-06-18",
@@ -429,6 +440,17 @@
       "charity": "Richard Chad",
       "registration_url": "https://www.thegreensatcopake.com/upcoming-events",
       "contact": "copakeevents@gmail.com; 518-325-4338"
+    },
+    {
+      "name": "Columbia County Sheriffs Golf Outing",
+      "course": "Copake Country Club",
+      "date": "2027-08-26",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Columbia County Sheriff's Office",
+      "registration_url": "",
+      "contact": "518-325-4338; proshop@copakecountryclub.com"
     },
     {
       "name": "Charity Scramble",

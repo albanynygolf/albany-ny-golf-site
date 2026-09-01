@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "tournaments": [
-    {
-      "name": "JODI D Outing",
-      "course": "Copake Country Club",
-      "date": "2026-08-31",
-      "time": "",
-      "format": "scramble",
-      "cost": "",
-      "charity": "JODI D",
-      "registration_url": "",
-      "contact": "(518) 325-0019"
-    },
     {
       "name": "3rd Annual Scotties Par-Tee Scramble",
       "course": "Saratoga Lake Golf Club",
@@ -121,6 +110,17 @@
       "charity": "Idle Hour Invitational",
       "registration_url": "",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Coxsackie-Athens Alumni & Friends Golf Tournament",
+      "course": "Thunderhart Golf Course",
+      "date": "2026-09-13",
+      "time": "9:00 AM",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Coxsackie-Athens Alumni & Friends",
+      "registration_url": "",
+      "contact": "518-634-7816"
     },
     {
       "name": "Frank Z VFW Outing",

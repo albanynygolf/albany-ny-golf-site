@@ -1,17 +1,6 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "tournaments": [
-    {
-      "name": "3rd Annual Scotties Par-Tee Scramble",
-      "course": "Saratoga Lake Golf Club",
-      "date": "2026-09-03",
-      "time": "Not listed",
-      "format": "scramble",
-      "cost": "Not listed",
-      "charity": "Scotties",
-      "registration_url": "https://saratogalakegolf.com/latest-news/",
-      "contact": "518-581-6616"
-    },
     {
       "name": "American Legion Post 291 Golf Tournament",
       "course": "Thunderhart Golf Course",
@@ -352,6 +341,17 @@
       "charity": "Windy Hills Golf Course",
       "registration_url": "https://windyhillsgolf.com/events/",
       "contact": "518-695-4902"
+    },
+    {
+      "name": "Senior Dog Scramble",
+      "course": "Van Patten Golf Club",
+      "date": "2026-10-03",
+      "time": "",
+      "format": "scramble",
+      "cost": "",
+      "charity": "Senior Dog Scramble beneficiary not specified",
+      "registration_url": "https://www.vanpattengolf.com/outings",
+      "contact": "518-877-5400"
     },
     {
       "name": "Dollars for Scholars Outing",

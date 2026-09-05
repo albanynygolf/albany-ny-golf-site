@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "tournaments": [
     {
       "name": "American Legion Post 291 Golf Tournament",
@@ -121,6 +121,17 @@
       "charity": "Frank Z VFW",
       "registration_url": "",
       "contact": "(518) 325-0019"
+    },
+    {
+      "name": "Malta Veterans Appreciation Program Outing",
+      "course": "Van Patten Golf Club",
+      "date": "2026-09-14",
+      "time": "Not specified",
+      "format": "scramble",
+      "cost": "Not specified",
+      "charity": "Malta Veterans Appreciation Program",
+      "registration_url": "https://www.vanpattengolf.com/outings",
+      "contact": "518-877-5400"
     },
     {
       "name": "4th Annual Ronald McDonald House Albany Golf Tournament",
